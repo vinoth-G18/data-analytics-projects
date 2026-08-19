@@ -1,10 +1,12 @@
 `Problem Statement`
+
 The objective of this Power BI report is to create a visually appealing and user-friendly dashboard that communicates key performance metrics for Northwind Traders effectively. The report aims to generate insights into customer behavior, sales patterns, and employee performance to aid decision-making processes. It will cover sales analysis, customer segmentation, inventory trends, and employee performance, consolidating data from multiple tables for a comprehensive view of the company's operations. The report will empower stakeholders to make data-driven decisions by offering valuable insights and facilitating data exploration through interactive visualizations and dynamic filters. The expected impact is to revolutionize how Northwind Traders interacts with its data, enabling the company to remain competitive and drive its business forward in the wholesale market landscape.
 
 `Dataset Description`
 The Northwind database contains the sales data for a fictitious company called “Northwind Traders,” which imports and exports specialty foods from around the world
 
 `Table Explanations`
+
 `1.Customers Table`
 This table stores information about the company's customers. It includes fields for customer ID, company name, contact name, contact title, address, city, region, postal code, country, phone, and fax.
 
